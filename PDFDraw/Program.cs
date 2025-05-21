@@ -21,6 +21,7 @@ try
     }
     else
     {
+        fileName = "/pdf/" + fileName;
         Console.WriteLine($"ファイル名: {fileName}");
     }
 
